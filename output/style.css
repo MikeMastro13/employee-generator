@@ -1,0 +1,7 @@
+.employee-card:not(:last-child) {
+    margin-right: 20px;
+}
+
+.card-header{
+    color: #fff;
+}
